@@ -23,3 +23,7 @@ gradebook[2].remove(85)
 
 #changing poetry grade to "Pass"
 gradebook[2].append("Pass")
+
+#combining lists
+full_gradebook = last_semester_gradebook + gradebook
+print(full_gradebook)
