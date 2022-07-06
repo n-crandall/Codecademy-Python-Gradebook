@@ -5,3 +5,6 @@ subjects = ["physics", "calculus", "poetry", "history"]
 
 #grades list
 grades = [98, 97, 85, 88]
+
+#two-dimensional list
+gradebook = [["physics", 98], ["calculus", 97], ["poetry", 85], ["history", 88]]
