@@ -21,3 +21,5 @@ gradebook[-1][-1] = 98
 #removing poetry grade
 gradebook[2].remove(85)
 
+#changing poetry grade to "Pass"
+gradebook[2].append("Pass")
