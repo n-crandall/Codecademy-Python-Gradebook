@@ -8,3 +8,7 @@ grades = [98, 97, 85, 88]
 
 #two-dimensional list
 gradebook = [["physics", 98], ["calculus", 97], ["poetry", 85], ["history", 88]]
+
+#appending new subject and score
+gradebook.append(["computer science", 100])
+
