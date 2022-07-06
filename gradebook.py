@@ -15,3 +15,6 @@ gradebook.append(["computer science", 100])
 #appending another visual arts
 gradebook.append(["visual arts", 93])
 
+#modifying visual arts score
+gradebook[-1][-1] = 98 
+
